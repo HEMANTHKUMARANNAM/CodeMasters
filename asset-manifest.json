@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CodeMasters/static/css/main.e807ffb2.css",
-    "main.js": "/CodeMasters/static/js/main.844b2b7d.js",
+    "main.js": "/CodeMasters/static/js/main.838b2cbe.js",
     "static/js/453.92f5f9fa.chunk.js": "/CodeMasters/static/js/453.92f5f9fa.chunk.js",
     "index.html": "/CodeMasters/index.html",
     "main.e807ffb2.css.map": "/CodeMasters/static/css/main.e807ffb2.css.map",
-    "main.844b2b7d.js.map": "/CodeMasters/static/js/main.844b2b7d.js.map",
+    "main.838b2cbe.js.map": "/CodeMasters/static/js/main.838b2cbe.js.map",
     "453.92f5f9fa.chunk.js.map": "/CodeMasters/static/js/453.92f5f9fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e807ffb2.css",
-    "static/js/main.844b2b7d.js"
+    "static/js/main.838b2cbe.js"
   ]
 }
